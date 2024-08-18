@@ -1,4 +1,4 @@
-## Olá! Eu sou a Andressa Gomes 😁
+## Olá! Eu sou a Andressa de Sá 😁
 
 ![Andressa GitHub stats](https://github-readme-stats.vercel.app/api?username=sagandressa&show_icons=true&theme=radical)
 
